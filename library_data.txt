@@ -1,0 +1,31 @@
+User, Student, John Doe, password
+User, Faculty, Dr. Smith, password
+User, Admin, admin, admin123
+User, Student, Alice Johnson, password
+User, Faculty, Prof. Williams, password
+User, Admin, superadmin, superpassword
+User, Student, Bob Martin, password
+User, Faculty, Dr. Brown, password
+User, Student, Sara Lee, password
+User, Faculty, Prof. Taylor, password
+
+Resource, Book, Java Programming
+Resource, Book, Python
+Resource, Magazine, Tech Monthly
+Resource, CoursePack, Algorithms
+Resource, Magazine, Science Today
+Resource, Book, Introduction to Java
+Resource, CoursePack, Web Development
+Resource, Book, Machine Learning
+Resource, Magazine, Digital Innovation
+Resource, Book, Python Programming
+Resource, CoursePack, Data Structures
+Resource, Book, Cloud Computing
+Resource, Magazine, AI Research
+Resource, Book, Introduction to Algorithms
+Resource, CoursePack, Software Engineering
+Resource, Magazine, Coding Weekly
+Resource, Book, Database Systems
+Resource, CoursePack, Cybersecurity
+Resource, Magazine, Tech Innovations
+Resource, Book, Operating Systems

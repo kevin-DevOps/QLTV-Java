@@ -1,0 +1,23 @@
+Library Name: LUMS Library
+
+Users:
+ID: 14100180, Name: admin, Type: 1
+ID: 14100181, Name: John Doe, Type: 3
+ID: 14100182, Name: Dr. Smith, Type: 2
+ID: 14100184, Name: admin, Type: 1
+ID: 14100185, Name: Alice Johnson, Type: 3
+ID: 14100186, Name: Prof. Williams, Type: 2
+ID: 14100188, Name: superadmin, Type: 1
+ID: 14100189, Name: fa, Type: 2
+
+Resources:
+ID: 1001, Name: Java Programming, Type: 1
+ID: 1002, Name: 1, Type: 1
+ID: 1003, Name: Tech Monthly, Type: 3
+ID: 1004, Name: Algorithms, Type: 2
+ID: 1005, Name: Science Today, Type: 3
+ID: 1006, Name: Introduction to Java, Type: 1
+ID: 1007, Name: Web Development, Type: 2
+ID: 1008, Name: Machine Learning, Type: 1
+
+End of Library Data

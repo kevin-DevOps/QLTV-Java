@@ -1,0 +1,15 @@
+User, Student, John Doe, password
+User, Faculty, Dr. Smith, password
+User, Admin, admin, admin123
+User, Student, Alice Johnson, password
+User, Faculty, Prof. Williams, password
+User, Admin, superadmin, superpassword
+
+Resource, Book, Java Programming
+Resource, Book, 1
+Resource, Magazine, Tech Monthly
+Resource, CoursePack, Algorithms
+Resource, Magazine, Science Today
+Resource, Book, Introduction to Java
+Resource, CoursePack, Web Development
+Resource, Book, Machine Learning
